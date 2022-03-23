@@ -1,0 +1,34 @@
+:root {
+    --text-color: red;
+  }
+  
+  h1 {
+    color: var(--text-color);
+  }
+  .header {
+    height: 100px;
+    width: 100px;
+    background-image: linear-gradient(0, #333, #ccc);
+    margin-top: 150px;
+  }
+  .box {
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding: 30px 20px 0px 40px;
+    border: 5px solid #333;
+    margin: 20px 5px 0px 5px;
+    box-sizing: content-box;
+  }
+  
+  .box1 {
+    background-image: linear-gradient(0, violet, blue);
+  }
+  
+  .box2 {
+    background-image: linear-gradient(0, red, green);
+  }
+  
+  .box3 {
+    background-image: linear-gradient(0, black, yellow);
+  }
