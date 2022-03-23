@@ -1,6 +1,7 @@
 # web-hoc-tap
 I.  Giới thiệu Git:
     * Tóm tắt:
+    
       - Git dùng để quản lý phiên bản code, rất thuận lợi trong làm việc nhóm thậm chí làm 1 mình. Git có nhiều trang hỗ trợ như: github.com, bitbucket.com, ... không phải git là chỉ riêng trang github, git giống như là 1 chuẩn quản lý phiên bản, ngoài ra còn có SVN là 1 chuẩn khác để quản lý phiên bản.
       
 II. Các khái niệm trong git:      
