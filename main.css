@@ -32,3 +32,6 @@
   .box3 {
     background-image: linear-gradient(0, black, yellow);
   }
+  body {
+    background-image: url(./sources/doge_destaque.jpg);
+  }
